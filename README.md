@@ -1,1 +1,2 @@
-# Android-studio
+# Mini Project
+# Maze Game
